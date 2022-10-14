@@ -1,0 +1,9 @@
+.git
+.DS_Store
+.ipynb_checkpoints
+**/volume/**
+**/data/**
+!*.gitkeep
+*.pem
+*.csr
+*.crt
